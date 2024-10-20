@@ -1,6 +1,6 @@
 import { Fragment } from "react"
 export default function Country(){
-    var country=['india',"canada","australia","london",]
+var country=['india',"canada","australia","london",]
     return(
         <>
         <h1>this is country</h1>
