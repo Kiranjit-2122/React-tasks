@@ -31,7 +31,6 @@ export default function Forms(){
         {password}
         <br/>
         <br/>
-
         <label>Contact Number</label>
         <input value={contact} onChange={(e)=>{setContact(e.target.value)}}></input>
         {contact}
