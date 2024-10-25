@@ -12,7 +12,8 @@ export default function Forms(){
 
     const changeEmail=(e)=>{
         setEmail(e.target.value)
-    }
+    } 
+    
     return(
         <>
         <label>Name:</label>
