@@ -1,7 +1,6 @@
 export default function Student(props){
     console.log(props.sname);
-    
-    return(
+     return(
         <>
         <table className="table table-bordered">
             <tr>
