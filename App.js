@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.bundle.min.js"
 import Student from './components/pages/Student';
 import Forms from './components/pages/Forms';
+
 function App() {
   return (
     <Fragment>
